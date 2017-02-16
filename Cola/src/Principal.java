@@ -10,7 +10,7 @@ public class Principal {
         int dato;
         String op;
         String s;
-
+//hola perras de 3 chichis
         do {
             op = JOptionPane.showInputDialog(null,"Menu \n 1 Ingresar elemento \n 2 Estrae \n 3 Vizualiza elementos \n 4 Buscar \n 5 Visualizar tamaño");
 

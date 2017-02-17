@@ -78,6 +78,14 @@ public class Cola {// comportamiento encapsulado
     public int size(){
         return size;
     }
+
+    public boolean lol() {
+        if (this.frente == this.fondo) {
+            return true;
+        } else {
+            return false;
+        }
+    }
 }
 
 
